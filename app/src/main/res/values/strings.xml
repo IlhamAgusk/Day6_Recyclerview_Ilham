@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">Day6</string>
+    <string name="nama">Nama</string>
+    <string name="nama1">Nama</string>
+
+    <string name="JudulFilm_Johnwick1">Judul Film: Johnwick 1</string>
+    <string name="TglRilis_Johnwick1">Tanggal Rilis: 24 Oktober 2014</string>
+    <string name="Genre_Johnwick1">Genre: Action, Thriller</string>
+    <string name="Sutradara_Johnwick1">Sutradara: Chad Stahelski, David Leitch</string>
+    <string name="Bintang_Film_Johnwick1">Bintang Film: Keanu Reeves</string>
+    <string name="DescJohn1">Dengan kematian mendadak istri tercintanya yang masih terasa pahit di mulutnya,
+        John Wick, mantan pembunuh yang ahli, menerima satu hadiah terakhir darinya—kenang-kenangan berharga
+        untuk membantu John menemukan makna baru dalam hidup setelah istrinya tiada. Namun ketika pangeran
+        mafia Rusia yang arogan, Iosef Tarasov, dan anak buahnya mengunjungi Wick dengan cara yang
+        tidak menyenangkan untuk merampok hadiah Mustang 1969 dan istrinya yang berharga, pembunuh bayaran
+        legendaris itu akan dipaksa untuk mengungkap identitasnya yang disembunyikan dengan cermat.
+        Karena buta akan balas dendam, John akan segera melancarkan pusaran kehancuran yang diatur dengan
+        cermat terhadap gembong canggih, Viggo Tarasov, dan keluarganya, yang sepenuhnya menyadari
+        kapasitas mematikannya. Sekarang, hanya darah yang bisa memuaskan dahaga si hantu akan pembalasan. ??Nick Riganas
+        </string>
+
+
+    <string name="JudulFilm_Johnwick2">Judul Film: Johnwick 2</string>
+    <string name="TglRilis_Johnwick2">Tanggal Rilis: 08 Februari 2017</string>
+    <string name="Genre_Johnwick2">Genre: Action, Crime, Thriller</string>
+    <string name="Sutradara_Johnwick2">Sutradara: Chad Stahelski</string>
+    <string name="Bintang_Film_Johnwick2">Bintang Film: Keanu Reeves</string>
+    <string name="DescJohn2">Terikat oleh hutang darah yang tak terhindarkan kepada raja kejahatan Italia,
+        Santino DAntonio, dan dengan Mustang 1969 miliknya yang masih dicuri, John Wick—pembunuh yang pendiam
+        dan kejam yang haus akan pengasingan—terpaksa mengunjungi Italia untuk menepati janjinya . Tapi, tak lama lagi,
+        Bogeyman akan mendapati dirinya terseret ke dalam tugas mustahil di jantung perkumpulan kriminal rahasia Roma,
+        karena setiap pembunuh dalam bisnis ini bermimpi untuk menyudutkan Wick legendaris yang kini harus dibayar mahal.
+        Berlumuran darah dan diburu tanpa ampun, John Wick pasti bisa melupakan masa pensiun yang damai karena tidak ada
+        yang bisa keluar dalam keadaan utuh. ??Nick Riganas
+        </string>
+
+
+    <string name="JudulFilm_Johnwick3">Judul Film: Johnwick 3</string>
+    <string name="TglRilis_Johnwick3">Tanggal Rilis: 15 Mei 2019</string>
+    <string name="Genre_Johnwick3">Genre: Action, Crime, Thriller</string>
+    <string name="Sutradara_Johnwick3">Sutradara: Chad Stahelski</string>
+    <string name="Bintang_Film_Johnwick3">Bintang Film: Keanu Reeves</string>
+    <string name="DescJohn3">Dalam seri ketiga dari franchise aksi yang memacu adrenalin ini, pembunuh terampil John Wick (Keanu Reeves)
+        kembali dengan banderol harga $14 juta di kepalanya dan pasukan pembunuh pemburu hadiah yang mengejarnya. Setelah membunuh anggota
+        serikat pembunuh bayangan internasional, High Table, John Wick dikucilkan, namun pembunuh pria dan wanita paling kejam di dunia menunggu
+        setiap kesempatannya.
+        </string>
+
+
+    <string name="JudulFilm_Johnwick4">Judul Film: Johnwick 4</string>
+    <string name="TglRilis_Johnwick4">Tanggal Rilis: 22 Maret 2023</string>
+    <string name="Genre_Johnwick4">Genre: Action, Crime, Thriller</string>
+    <string name="Sutradara_Johnwick4">Sutradara: Chad Stahelski</string>
+    <string name="Bintang_Film_Johnwick4">Bintang Film: Keanu Reeves</string>
+    <string name="DescJohn4">John Wick mengungkap jalan untuk mengalahkan The High Table. Tapi sebelum dia bisa mendapatkan kebebasannya,
+        Wick harus menghadapi musuh baru dengan aliansi kuat di seluruh dunia dan kekuatan yang mengubah teman lama menjadi musuh.
+        </string>
+
+
+    <string name="JudulFilm_CivilWar">Judul Film: Avengers Civil War</string>
+    <string name="TglRilis_CivilWar">Tanggal Rilis: 27 April 2016</string>
+    <string name="Genre_CivilWar">Genre: Action, Adventure, Sci-fi</string>
+    <string name="Sutradara_CivilWar">Sutradara: Anthony Russo</string>
+    <string name="Bintang_Film_CivilWar">Bintang Film: Chris Evans, Robert Downey J</string>
+    <string name="DescCivilWar">Karena banyak orang yang takut akan tindakan pahlawan super, pemerintah memutuskan untuk mendorong Undang-Undang
+        Pendaftaran Pahlawan, sebuah undang-undang yang membatasi tindakan pahlawan. Hal ini mengakibatkan perpecahan dalam The Avengers. Iron Man
+        mendukung Undang-undang ini, mengklaim bahwa tindakan mereka harus dijaga jika tidak, kota-kota akan terus dihancurkan, tetapi Kapten Amerika
+        merasa bahwa menyelamatkan dunia sudah cukup berani dan mereka tidak dapat bergantung pada pemerintah untuk melindungi dunia. Hal ini meningkat
+        menjadi perang habis-habisan antara Tim Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, dan Spider-Man) dan Tim Captain America
+        (Captain America, Bucky Barnes, Falcon, Scarlet Witch, Hawkeye, dan Ant Man) saat penjahat baru muncul. ??Hormati Tanda Hubung
+        </string>
+
+
+    <string name="JudulFilm_Infinity">Judul Film: Avengers Infinity War</string>
+    <string name="TglRilis_Infinity">Tanggal Rilis: 25 April 2018</string>
+    <string name="Genre_Infinity">Genre: Action, Adventure, Fantasy, Sci-fi</string>
+    <string name="Sutradara_Infinity">Sutradara: Anthony Russo</string>
+    <string name="Bintang_Film_Infinity">Bintang Film: Chris Evans, Robert Downey J, Chris Hemsworth</string>
+    <string name="DescInfinity">Ketika Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh pahlawan mana pun,
+        bahaya baru muncul dari bayang-bayang kosmik: Thanos. Seorang lalim dari keburukan antargalaksi, tujuannya adalah untuk mengumpulkan keenam Batu Keabadian,
+        artefak dengan kekuatan yang tak terbayangkan, dan menggunakannya untuk memaksakan kehendaknya yang menyimpang pada semua kenyataan. Segala sesuatu yang telah
+        diperjuangkan para Avengers telah mengarah pada momen ini, nasib bumi dan keberadaannya semakin tidak menentu. ??Studio Marvel
+        </string>
+
+
+    <string name="JudulFilm_End">Judul Film: Avengers End Game</string>
+    <string name="TglRilis_End">Tanggal Rilis: 24 April 2019</string>
+    <string name="Genre_End">Genre: Action, Adventure, Fantasy, Sci-fi</string>
+    <string name="Sutradara_End">Sutradara: Anthony Russo</string>
+    <string name="Bintang_Film_End">Bintang Film: Chris Evans, Robert Downey J, Chris Hemsworth</string>
+    <string name="DescEnd">Setelah peristiwa dahsyat di Avengers: Infinity War (2018), alam semesta hancur akibat ulah Titan Gila, Thanos. Dengan bantuan sekutu yang tersisa,
+        para Avengers harus berkumpul sekali lagi untuk membatalkan tindakan Thanos dan memperbaiki kekacauan di alam semesta, tidak peduli konsekuensi apa yang mungkin terjadi,
+        dan tidak peduli siapa yang mereka hadapi…
+        </string>
+
+
+    <string name="JudulFilm_gotg1">Judul Film: Guardian of The Galaxy Vol 1</string>
+    <string name="TglRilis_gotg1">Tanggal Rilis: 13 Agustus 2014</string>
+    <string name="Genre_gotg1">Genre: Action, Adventure, Sci-fi</string>
+    <string name="Sutradara_gotg1">Sutradara: James Gunn</string>
+    <string name="Bintang_Film_gotg1">Bintang Film: Chris Pratt</string>
+    <string name="Descgotg1">Setelah mencuri bola misterius di luar angkasa, Peter Quill dari Bumi kini menjadi target utama perburuan yang dipimpin oleh penjahat yang dikenal sebagai
+        Ronan the Accuser. Untuk membantu melawan Ronan dan timnya serta menyelamatkan galaksi dari kekuatannya, Quill menciptakan tim pahlawan luar angkasa yang dikenal sebagai
+        "Penjaga Galaksi" untuk menyelamatkan galaksi. ??James Hake
+        </string>
+
+
+    <string name="JudulFilm_gotg2">Judul Film: Guardian of The Galaxy Vol 2</string>
+    <string name="TglRilis_gotg2">Tanggal Rilis: 19 April 2017</string>
+    <string name="Genre_gotg2">Genre: Action, Adventure, Sci-fi</string>
+    <string name="Sutradara_gotg2">Sutradara: James Gunn</string>
+    <string name="Bintang_Film_gotg2">Bintang Film: Chris Pratt</string>
+    <string name="Descgotg2">Setelah menyelamatkan Xandar dari amukan Ronan, para Penjaga kini diakui sebagai pahlawan. Kini tim tersebut harus membantu pemimpin mereka Star Lord (Chris Pratt)
+        mengungkap kebenaran di balik warisan aslinya. Sepanjang perjalanan, musuh lama beralih ke sekutu dan pengkhianatan pun marak. Dan para Penjaga mendapati bahwa mereka menghadapi ancaman
+        baru yang menghancurkan yang ingin menguasai galaksi. ??Blazer346
+        </string>
+
+
+    <string name="JudulFilm_gotg3">Judul Film: Guardian of The Galaxy Vol 3</string>
+    <string name="TglRilis_gotg3">Tanggal Rilis: 3 Mei 2023</string>
+    <string name="Genre_gotg3">Genre: Action, Adventure, Comedy</string>
+    <string name="Sutradara_gotg3">Sutradara: James Gunn</string>
+    <string name="Bintang_Film_gotg3">Bintang Film: Chris Pratt</string>
+    <string name="Descgotg3">Masih terhuyung-huyung karena kehilangan Gamora, Peter Quill mengerahkan timnya untuk mempertahankan alam semesta dan salah satu dari mereka sendiri - sebuah misi yang
+        bisa berarti akhir dari Guardians jika tidak berhasil.
+        </string>
+
+
+    <string name="JudulFilm_Immortal">Judul Film: Thor: Courage Is Immortal</string>
+    <string name="TglRilis_Immortal">Tanggal Rilis: 21 April 2011</string>
+    <string name="Genre_Immortal">Genre: Action, Adventure, Fantasy</string>
+    <string name="Sutradara_Immortal">Sutradara: Kenneth Branagh</string>
+    <string name="Bintang_Film_Immortal">Bintang Film: Chris Hemsworth</string>
+    <string name="DescImmortal">Prajurit Thor (Chris Hemsworth) diusir dari alam fantastis Asgard oleh ayahnya Odin (Sir Anthony Hopkins) karena kesombongannya dan dikirim ke Bumi untuk hidup di antara manusia.
+        Jatuh cinta pada ilmuwan Jane Foster (Natalie Portman) memberikan pelajaran yang sangat dibutuhkan Thor, dan kekuatan barunya mulai berperan saat penjahat dari kampung halamannya mengirimkan kekuatan gelap ke Bumi.
+        </string>
+
+
+    <string name="JudulFilm_Dark">Judul Film: Thor: The Dark World</string>
+    <string name="TglRilis_Dark">Tanggal Rilis: 29 Oktober 2013</string>
+    <string name="Genre_Dark">Genre: Action, Adventure, Fantasy</string>
+    <string name="Sutradara_Dark">Sutradara: Alan Taylor</string>
+    <string name="Bintang_Film_Dark">Bintang Film: Chris Hemsworth</string>
+    <string name="DescDark">Ribuan tahun yang lalu, ras makhluk yang dikenal sebagai Dark Elf mencoba mengirim alam semesta ke dalam kegelapan dengan menggunakan senjata yang dikenal sebagai Aether.
+        Prajurit dari Asgard menghentikan mereka, namun pemimpin mereka Malekith (Christopher Eccleston) melarikan diri untuk menunggu kesempatan lain. Para prajurit menemukan Aether, dan karena tidak
+        dapat dihancurkan, mereka mencoba menyembunyikannya. Saat ini, Jane Foster (Natalie Portman) menunggu kembalinya Thor (Chris Hemsworth), meski sudah dua tahun sejak terakhir kali mereka bertemu.
+        Sementara itu, Thor telah berusaha membawa perdamaian ke sembilan alam. Jane menemukan anomali yang mirip dengan yang membawa Thor ke Bumi. Dia pergi untuk menyelidiki, menemukan lubang cacing,
+        dan tersedot ke dalamnya. Kembali ke Asgard, Thor ingin kembali ke Bumi, namun ayahnya, Odin (Sir Anthony Hopkins), menolak untuk mengizinkannya. Thor mengetahui dari Heimdall (Idris Elba),
+        yang dapat melihat seluruh dunia, bahwa Jane menghilang. Thor kemudian kembali ke Bumi saat Jane muncul kembali. Namun, ketika beberapa Polisi mencoba menangkapnya, energi tak dikenal mengusir mereka.
+        Thor kemudian membawa Jane ke Asgard untuk mencari tahu apa yang terjadi padanya. Ketika energi dilepaskan lagi, mereka menemukan bahwa ketika Jane menghilang, dia berpapasan dengan Aether dan energi
+        memasuki dirinya. Malekith, setelah merasakan bahwa sekarang waktunya untuk menyerang, mencari Aether. Dia menyerang Asgard dan ibu Thor, Frigga (Rene Russo) terbunuh saat melindungi Jane. Odin ingin
+        mempertahankan Jane di Asgard agar Malekith bisa datang. Thor tidak setuju dengan rencananya, jadi bersama para pengikutnya, dia memutuskan untuk membawa Jane pergi. Dia meminta bantuan saudaranya,
+        Loki (Tom Hiddleston). Sayangnya, motivasi Loki masih belum diketahui.
+        </string>
+
+
+    <string name="JudulFilm_Ragnarok">Judul Film: Thor: Ragnarok</string>
+    <string name="TglRilis_Ragnarok">Tanggal Rilis: 25 Oktober 2017</string>
+    <string name="Genre_Ragnarok">Genre: Action, Adventure, Comedy, Sci-fi</string>
+    <string name="Sutradara_Ragnarok">Sutradara: Taika Waititi</string>
+    <string name="Bintang_Film_Ragnarok">Bintang Film: Chris Hemsworth</string>
+    <string name="DescRagnarok">Terpenjara di sisi lain alam semesta, Thor (Chris Hemsworth) yang perkasa menemukan dirinya dalam kontes gladiator mematikan yang menempatkannya melawan The Incredible Hulk (Mark Ruffalo),
+        mantan sekutunya dan sesama Avenger. Pencarian Thor untuk bertahan hidup membawanya berpacu dengan waktu untuk mencegah Hela (Cate Blanchett) yang sangat kuat menghancurkan dunia asalnya dan peradaban Asgardian.
+        ??Asger Jonasen aagaard
+        </string>
+
+
+    <string name="JudulFilm_Love">Judul Film: Thor: Love And Thunder</string>
+    <string name="TglRilis_Love">Tanggal Rilis: 06 Juli 2022</string>
+    <string name="Genre_Love">Genre: Action, Adventure, Comedy</string>
+    <string name="Sutradara_Love">Sutradara: Taika Waititi</string>
+    <string name="Bintang_Film_Love">Bintang Film: Chris Hemsworth</string>
+    <string name="DescLove">Thor meminta bantuan Valkyrie, Korg dan mantan pacar jane foster untuk melawan Gorr the God Butcher, yang berniat membuat para dewa punah.
+        </string>
+
+
+    <string name="JudulFilm_HobsShaw">Judul Film: Fast Furious: Hobs And Shaw</string>
+    <string name="TglRilis_HobsShaw">Tanggal Rilis: 01 Agustus 2019</string>
+    <string name="Genre_HobsShaw">Genre: Action, Adventure</string>
+    <string name="Sutradara_HobsShaw">Sutradara: David Leitch</string>
+    <string name="Bintang_Film_HobsShaw">Bintang Film: Downey Johnson, Jason Statham</string>
+    <string name="DescHobsShaw">Pengacara Luke Hobbs (Dwayne "The Rock" Johnson) dan Deckard Shaw (Jason Statham) yang terbuang membentuk aliansi yang tidak terduga ketika penjahat yang
+        ditingkatkan secara genetis di dunia maya mengancam masa depan umat manusia.
+        </string>
+    <string name="share">Share</string>
+</resources>

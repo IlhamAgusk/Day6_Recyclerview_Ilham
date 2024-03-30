@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/detailTitle"
+            android:layout_marginTop="14dp"
+            android:text="Title"
+            android:textSize="24sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"/>
+
+        <ImageView
+            android:id="@+id/detailImage"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="judulfilm"
+            android:layout_marginLeft="13sp"
+            android:textSize="18sp"
+            android:id="@+id/detailjudulfilm"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="tglrilis"
+            android:layout_marginLeft="13sp"
+            android:textSize="18sp"
+            android:id="@+id/detailtglrilis"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Genre"
+            android:layout_marginLeft="13sp"
+            android:textSize="18sp"
+            android:id="@+id/detailGenre"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sutradara"
+            android:layout_marginLeft="13sp"
+            android:textSize="18sp"
+            android:id="@+id/detailsutradara"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bintangfilm"
+            android:layout_marginLeft="13sp"
+            android:textSize="18sp"
+            android:id="@+id/detailBintang"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Description"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:id="@+id/detailDesc"/>
+
+    </LinearLayout>
+
+</ScrollView>
